@@ -2,8 +2,8 @@ import Heading from "../components/Heading";
 import { SectionProps } from "../types";
 
 const tags = [
-    "ENHANCED TRACEABILITY AND AUTHENTICATION",
-    "SMART CONTRACT AUTOMATION",
+    "Enhanced Tracebility And Authentication",
+    "Smart Contract Automation",
     "Cross-Chain Interoperability",
     "Security and Risk Management",
 ];
@@ -18,7 +18,7 @@ export default function AboutSection() {
                     subHeading="Transforming Supply Chain Management"
                 />
                 <span className="text-app_gray/80 leading-8 text-xl">
-                Zion leverages Omnichain technology to enhance supply chains with secure transactions, transparent tracking, and real-time visibility, addressing inefficiencies and quality challenges.
+                Zion leverages Omnichain technology to enhance supply chains with secure transactions, transparent tracking and real-time visibility, addressing inefficiencies and quality challenges.
                 </span>
                 <div className="row gap-2">
                     {tags.map((tag, i) => (

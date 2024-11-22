@@ -9,7 +9,7 @@ const cards = [
     {
         id: 2,
         title: "Real-Time Transparency and Tracking",
-        desc: "Zion offers real-time visibility into the supply chain, with blockchain-based tracking for enhanced accountability and trust.",
+        desc: "Zion offers real-time visibility into the supply chain with blockchain-based tracking for enhanced accountability and trust.",
     },
     {
         id: 3,

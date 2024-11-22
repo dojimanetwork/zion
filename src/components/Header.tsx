@@ -3,7 +3,7 @@ import Button from "./Button";
 import AppLogo from "./sub-components/AppLogo";
 import ThemeControl from "./sub-components/ThemeControl";
 
-const links = ["Home", "Marketplace", "Blog", "Road Map"];
+const links = ["Home", "Blog"];
 
 export default function Header() {
     return (

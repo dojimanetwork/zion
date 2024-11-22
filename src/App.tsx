@@ -3,7 +3,7 @@ import Header from "./components/Header";
 import { routes } from "./constants";
 
 import AboutSection from "./sections/AboutSection";
-import CollectionSection from "./sections/CollectionSection";
+// import CollectionSection from "./sections/CollectionSection";
 import FAQSection from "./sections/FAQSection";
 import FeaturesSection from "./sections/FeaturesSection";
 import FooterSection from "./sections/FooterSection";
@@ -19,7 +19,7 @@ const Components = [
     // { El: Popularity, id: routes.popular },
     { El: AboutSection, id: routes.about },
     { El: FeaturesSection, id: routes.features },
-    { El: CollectionSection, id: routes.collection },
+    // { El: CollectionSection, id: routes.collection },
     { El: FAQSection, id: routes.faq },
     // { El: PromoSection, id: routes.promo },
     { El: FooterSection, id: routes.footer },

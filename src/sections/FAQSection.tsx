@@ -4,15 +4,15 @@ import QAComponent, { QAProps } from "../components/Q&A";
 const questions: QAProps[] = [
     {
         question: "What is Zion?",
-        answer:"Zion is an advanced supply chain management application powered by Omnichain technology, designed to improve transparency, security, and collaboration across blockchain networks."
+        answer:"Zion is an advanced supply chain management application powered by Omnichain technology, designed to improve transparency, security and collaboration across blockchain networks."
     },
     {
         question: "How does Zion enhance supply chain transparency?",
-        answer:"Zion uses blockchain technology to provide real-time tracking and transparent records, ensuring visibility at every stage of the supply chain."
+        answer:"Zion uses blockchain technology to provide real-time tracking and transparent records ensuring visibility at every stage of the supply chain."
     },
     {
         question: "What is Omnichain technology?",
-        answer:"Omnichain technology allows seamless interaction between different blockchains, enabling data and transactions to flow securely across multiple networks without boundaries."
+        answer:"Omnichain technology allows seamless interaction between different blockchains enabling data and transactions to flow securely across multiple networks without boundaries."
     },
     {
         question: "How secure are transactions in Zion?",
@@ -28,11 +28,11 @@ const questions: QAProps[] = [
     },
     {
         question: "How does Zion improve supply chain efficiency?",
-        answer:"By automating processes, eliminating manual tracking, and enhancing communication across networks, Zion reduces inefficiencies and speeds up operations."
+        answer:"By automating processes, eliminating manual tracking and enhancing communication across networks, Zion reduces inefficiencies and speeds up operations."
     },
     {
         question: "What kind of businesses can benefit from Zion?",
-        answer: "Zion is ideal for businesses of all sizes involved in manufacturing, logistics, distribution, and retail, looking to enhance their supply chain management.",
+        answer: "Zion is ideal for businesses of all sizes involved in manufacturing, logistics, distribution and retail, looking to enhance their supply chain management.",
     },
 ];
 

@@ -9,7 +9,7 @@ export default function MainSection() {
                 </h1>
                 <span className="text-app_gray leading-8 text-xl">
                     Zion leverages Omnichain technology to enhance supply chain processes
-                    with secure transactions, transparent tracking, and real-time
+                    with secure transactions, transparent tracking and real-time
                     visibility, addressing inefficiencies and quality challenges across
                     networks.
                 </span>
